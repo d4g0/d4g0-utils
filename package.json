@@ -1,0 +1,22 @@
+{
+  "name": "@d4g0/utils",
+  "version": "0.0.0",
+  "description": "All my custom utils in one place",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d4g0/d4g0-utils.git"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "d4g0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d4g0/d4g0-utils/issues"
+  },
+  "homepage": "https://github.com/d4g0/d4g0-utils#readme"
+}
