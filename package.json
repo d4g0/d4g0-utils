@@ -4,7 +4,8 @@
   "description": "All my custom utils in one place",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon test.js"
+    "test": "nodemon test.js",
+    "pub":"npm publish --access public"
   },
   "repository": {
     "type": "git",
